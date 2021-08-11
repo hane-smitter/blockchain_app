@@ -1,0 +1,77 @@
+﻿.const-landing {
+	background: url(https://www.kwsme.com/wp-content/uploads/2018/02/contact-background-1-1-1.jpg);
+    background-repeat: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.collapse.navbar-collapse {
+    margin-left: 380px !important;
+    font-size: larger !important;
+}
+
+.navbar {
+    background: transparent !important;
+    left: -260px !important;
+}
+
+.navbar-nav.nav-flex-icons {
+    right: -230px !important;
+    position: relative  !important;
+    float: right !important;
+}
+
+.const-landing .main-content {
+	width: 95%;
+	padding-left: 5%;
+	color: #fff;
+}
+
+.const-choose {
+	text-align: center;
+	margin-bottom: 60px;
+	float: left;
+	width: 100%;
+    font-family: Cinzel, serif;
+}
+
+.const-weapon {
+	background: url('https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/262410/8176229d9cba1eecb79cf3ddf336d223ab8290ab.jpg');
+    background-repeat: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.const-education {
+	background: url('https://pamirtimes.net/wp-content/uploads/2019/06/Education-Is-More-than-Academic-Excellence.jpg');
+    background-repeat: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.const-citizen {
+	
+	background: url('https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&q=80&fm=jpg');
+    background-repeat: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.const-traffic {
+	background: url('https://wallpaperaccess.com/full/1619768.jpg');
+    background-repeat: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.pricing {
+	cursor: pointer;
+}
+
+.pricing:hover { 
+	opacity: 0.8;
+}
