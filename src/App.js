@@ -56,8 +56,8 @@ export default class App extends React.Component
       <GlobalProvider>
       <Router>
             <Routes>
-            {/* <Route exact path="/" element={<LandingHome/>} /> */}
-            <Route exact path="/" element={<Home/>} />
+            <Route exact path="/" element={<LandingHome/>} />
+            {/* <Route exact path="/" element={<Home/>} /> */}
             <Route path="/admin-login" element={<AdminLogin />}>
               
             </Route>
@@ -86,9 +86,9 @@ export default class App extends React.Component
             <Route path="/education-dashboard" element={  <EducationDashboard/>}>
             
             </Route>
-            {/* <Route path="/dashboard" element={<Home />}>
+            <Route path="/dashboard" element={<Home />}>
               
-            </Route> */}
+            </Route>
             <Route path="/hospital-add" element={ <HostpitalAdd />}>
              
             </Route>

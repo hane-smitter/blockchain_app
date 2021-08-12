@@ -75,3 +75,21 @@
 .pricing:hover { 
 	opacity: 0.8;
 }
+
+.media .w-icon i{
+    font-size: 35px;
+ }
+
+ hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+.small, small {
+    font-size: 75%;
+    font-weight: 400;
+}
+.small-font{
+	font-size:14px;
+}
+.extra-small-font{
+  font-size:12px;
+}
